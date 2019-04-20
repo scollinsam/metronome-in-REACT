@@ -1,0 +1,44 @@
+
+
+.metronome {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    width: 600px;
+    height: 300px;
+    border-radius: 300px / 150px;
+    background: black;
+    margin: 0 auto;
+}
+
+.bpm-slider {
+    padding-top: 50px;
+}
+
+.bpm-slider input {
+    width: 50%;
+    margin: 30px;
+}
+
+.metronome .stop {
+    background: #c94d46;
+    padding: 10px;
+    border: 2px solid #832420;
+    border-radius: 100px;
+    width: 80px;
+    height: 80px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.metronome .start {
+    background: rgb(71, 247, 32);
+    padding: 10px;
+    border: 2px solid rgb(35, 147, 10);
+    border-radius: 100px;
+    width: 80px;
+    height: 80px;
+    color: black;
+    font-size: 18;
+}
